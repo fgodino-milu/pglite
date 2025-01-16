@@ -1,5 +1,19 @@
 # @electric-sql/pglite-vue
 
+## 0.2.16
+
+### Patch Changes
+
+- 7ce9f04: Fix Vue useLiveQuery to allow no parameters to be provided
+- Updated dependencies [c36fd09]
+- Updated dependencies [e037883]
+- Updated dependencies [d6b981b]
+- Updated dependencies [17e7664]
+- Updated dependencies [118ba3e]
+- Updated dependencies [ddd4a68]
+- Updated dependencies [f3f1103]
+  - @electric-sql/pglite@0.2.16
+
 ## 0.2.15
 
 ### Patch Changes
